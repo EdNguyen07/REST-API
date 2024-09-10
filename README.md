@@ -1,0 +1,2 @@
+Now you have a sweet taste of what’s possible with REST API. Of course, when you move from Postman to writing code, you’ll be interacting with REST API using the programming language of your choice. Luckily, expert Salesforce developers have written wrappers for several languages that simplify the process of consuming REST API. 
+Here are two sample queries written in Node.js and Ruby that use wrappers JSforce and Restforce, respectively.
